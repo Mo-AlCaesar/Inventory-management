@@ -22,9 +22,9 @@ It is a simple system for managing the inventory of electronic devices like lapt
 * mySQL
 
 ## libraries used :
-* [bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - a Css library
-* [Datatables.net](https://datatables.net/) - a Tabels library
-* [Select2](https://select2.org/) - a Select boxes library
+* [bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Css library
+* [Datatables.net](https://datatables.net/) - Datatabels library
+* [Select2](https://select2.org/) - Select boxes library
 
 ##
 
