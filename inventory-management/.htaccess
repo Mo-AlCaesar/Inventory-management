@@ -1,0 +1,18 @@
+php_flag display_errors off
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule (.*)$ $1.php
+
+
+Options -Indexes
+
+ErrorDocument 403 http://localhost/inventory-management/
+
+
+SetEnv base_path \inventory-management
+
+SetEnv base_url http://localhost/inventory-management/
+
