@@ -28,10 +28,11 @@ It is a simple system for managing the inventory of electronic devices like lapt
 
 ##
 
-The system is simple, but it contains some features. 
-First, a different method was used to organize folders and files, and a different way to open project pages. 
-Second, features such as activities for admins and moderator. 
-It also contains some features when adding a product to calculate the cost of purchasing and parts added to each product to calculate the profit margin, etc.
+The system is simple, but it contains some features.
+First, use a different way to organize folders and files, and a different way to open project pages.
+Secondly, features like custom activities for admins and moderators to track all activities in system.
+It also contains some features when adding a product to calculate the purchase cost and the parts added to each product to calculate the profit margin, etc.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mo-AlCaesar/Inventory-management/main/inventory-management/screen-shot/232827.png">
 </p>
