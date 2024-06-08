@@ -14,12 +14,12 @@ It is a simple system for managing the inventory of electronic devices like lapt
 
 ## Languages used :
 
-* [Html]
-* [Css]
-* [JavaScript]
-* [jQuary]
-* [php]
-* [mySQL]
+* Html
+* Css
+* JavaScript
+* jQuary
+* php
+* mySQL
 
 ## libraries used :
 * [bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - a Css library
