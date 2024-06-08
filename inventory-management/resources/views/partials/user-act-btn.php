@@ -1,0 +1,4 @@
+<div class="nav-item dropdown">
+	<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"> <i class="fas fa-user text-white bg-primary"></i> <span class="d-none d-lg-inline-flex"></span> </a>
+	<div class="dropdown-menu dropdown-menu-end bg-light border-0 rounded-0 rounded-bottom m-0 shadow"> <a href="<?php echo base_url ?>?page=users" class="dropdown-item bg-light text-primary"><i class="fas fa-user-friends"></i> All Users</a> <a href="<?php echo base_url ?>?page=user-activity" class="dropdown-item bg-light text-primary"><i class="fas fa-user-clock"></i> Users Activity</a> </div>
+</div>
