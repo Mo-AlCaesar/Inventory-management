@@ -45,3 +45,12 @@ You must change the path in the `.htaccess` file to your own path for the projec
   <img src="https://raw.githubusercontent.com/Mo-AlCaesar/Inventory-management/main/inventory-management/screen-shot/231932.png">
 </p>
 
+
+##
+
+### The Sql file in the database folder
+
+### Login data 
+Username: admin
+Password: admin
+
