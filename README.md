@@ -17,11 +17,11 @@ It is a simple system for managing the inventory of electronic devices like lapt
 * Html
 * Css
 * JavaScript
-* jQuary
 * php
 * mySQL
 
 ## libraries used :
+* [jQuary](https://jquery.com/) - JavaScript library
 * [bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Css library
 * [Datatables.net](https://datatables.net/) - Datatabels library
 * [Select2](https://select2.org/) - Select boxes library
